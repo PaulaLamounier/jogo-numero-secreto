@@ -1,0 +1,60 @@
+# ----------------------------------------------------------------------------------------------------------------------
+# 1. AMBIENTE VIRTUAL E DEPENDÊNCIAS
+# Evita que o ambiente virtual seja rastreado. Ele deve ser recriado via requirements.txt.
+# ----------------------------------------------------------------------------------------------------------------------
+.venv
+venv
+env
+
+# Arquivos de cache do Python
+__pycache__
+.pyc
+.pyd
+.pyo
+
+# Instalações feitas com pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos de distribuição e builds
+build
+dist
+.egg-info
+.tox
+
+# ----------------------------------------------------------------------------------------------------------------------
+# 2. FERRAMENTAS E AMBIENTES DE DESENVOLVIMENTO
+# Arquivos gerados por IDEs (VS Code, Jupyter, etc.)
+# ----------------------------------------------------------------------------------------------------------------------
+.vscode # Arquivos de configuração específicos do seu VS Code
+.ipynb_checkpoints # Checkpoints do Jupyter Notebook
+.idea # Arquivos de projetos do PyCharmIntelliJ
+.swp
+~
+.log
+.DS_Store # Arquivos do macOS
+
+# ----------------------------------------------------------------------------------------------------------------------
+# 3. DADOS E SAÍDAS
+# Arquivos de dados grandes, outputs temporários ou dados sensíveis.
+# O Git não deve rastrear dados.
+# ----------------------------------------------------------------------------------------------------------------------
+# Arquivos de dados baixados ou gerados
+data
+output
+downloads
+temp
+tmp
+
+# Formatos de dados comuns
+.csv
+.xlsx
+.parquet
+.db
+.sqlite
+
+# Arquivos de configuração sensíveis (que contêm senhaschaves)
+.env
+.env
+config.ini
+secrets.json
