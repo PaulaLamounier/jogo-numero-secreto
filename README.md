@@ -1,12 +1,36 @@
-<h1>Jogo do número secreto</h1>
+# 🎮 Jogo do Número Secreto
 
-<h2>🔖 Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+## 📌 Sobre o projeto
 
-## 🚀 Tecnologias
-<div>
-  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</div>
+Este projeto foi desenvolvido para praticar lógica de programação utilizando JavaScript.
 
+O objetivo do jogo é adivinhar um número secreto com base em dicas fornecidas ao usuário.
+
+---
+
+## 🎯 Funcionalidades
+
+* Geração de número aleatório
+* Validação de tentativas
+* Feedback ao usuário (maior/menor)
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+* HTML
+* CSS
+* JavaScript
+
+---
+
+## ▶️ Como executar
+
+1. Baixe ou clone o repositório
+2. Abra o arquivo `index.html` no navegador
+
+---
+
+## 👩‍💻 Autora
+
+Paula Rayane Lamounier Manoel
