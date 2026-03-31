@@ -31,6 +31,9 @@ O objetivo do jogo é adivinhar um número secreto com base em dicas fornecidas 
 
 ---
 
+🔗 Acesse o projeto: https://paulalamounier.github.io/jogo-numero-secreto/
+
+
 ## 👩‍💻 Autora
 
 Paula Rayane Lamounier Manoel
